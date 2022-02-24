@@ -68,7 +68,7 @@ function my_keydown(e)
         up();
         console.log("up");
     }
-    if(keyPressed == '40');
+    if(keyPressed == '40')
     {
         down();
         console.log("down");
